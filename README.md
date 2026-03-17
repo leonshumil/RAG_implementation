@@ -36,7 +36,7 @@ During inference, the system calculates the Hamming Distance between the query h
 ## 📂 Project Structure
 * RAG.py: The core Python implementation of the HashTable and custom_hash functions.
 * 2505.16133v4.pdf: The original research paper: Hash-RAG: Bridging Deep Hashing with Retriever for Efficient, Fine-grained Retrieval and Augmented Generation.
-* RAG_explaine.pdf: Technical documentation detailing specific implementation logic and trade-offs.
+* Assignment4CodeHeb.pdf: The original hebrew homework assingment.
 
 ---
 
